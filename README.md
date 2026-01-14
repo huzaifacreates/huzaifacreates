@@ -6,7 +6,7 @@
 
 <h1 align="center">Heyyy! 👋 I'm Huzaifa</h1>
 <h3 align="center">
-aka <span style="color:#7c7cff;">cyberzeff</span>
+aka <span style="color:#AA7DFC;">cyberzeff</span>
 </h3>
 
 <p align="center">
@@ -36,18 +36,19 @@ DevOps & Cloud ☁️
 
 <p align="center">
   <a href="https://linkedin.com/in/cyber-zeff">
-    <img src="https://img.shields.io/badge/LinkedIn-110C29?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-AA7DFC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/cyberzeff">
     <img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
   <a href="mailto:cyberzeff.me@gmail.com">
-    <img src="https://img.shields.io/badge/Email-110C29?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-AA7DFC?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<h4 style="color:#9fa8ff; font-style: italic;">
-“Yes, I can actually do this all day!”
-</h4>
+<p align="center">
+
+![quote](https://img.shields.io/badge/%22Yes,_I_can_actually_do_this_all_day!%22-000000?style=flat&color=%23AA7DFC&labelColor=00000000)
+</p>
 
 </div>
 
@@ -57,18 +58,18 @@ DevOps & Cloud ☁️
 <!--       PROJECTS          -->
 <!-- ======================= -->
 
-<h2 align="center">Projects Worth Showcasing</h2>
+<h2>Projects Worth Showcasing</h2>
 
-<div align="center">
+<div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-110C29?style=for-the-badge)](https://cyberzeff.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AA7DFC?style=for-the-badge)](https://cyberzeff.vercel.app/)
 [![AURA AI](https://img.shields.io/badge/AURA%20AI-050505?style=for-the-badge)](https://github.com/cyber-zeff/AURA-AI-Chatbot)
-[![Highway Dash](https://img.shields.io/badge/Highway%20Dash-110C29?style=for-the-badge)](https://github.com/cyber-zeff/Highway-Dash-Game)
+[![Highway Dash](https://img.shields.io/badge/Highway%20Dash-AA7DFC?style=for-the-badge)](https://github.com/cyber-zeff/Highway-Dash-Game)
 [![FastHub](https://img.shields.io/badge/FastHub-050505?style=for-the-badge)](https://github.com/cyber-zeff/FASTHUB)
 
-[![Vehiclez](https://img.shields.io/badge/Vehiclez-110C29?style=for-the-badge)](https://github.com/cyber-zeff/Vehicle-Website-Vehiclez-)
+[![Vehiclez](https://img.shields.io/badge/Vehiclez-AA7DFC?style=for-the-badge)](https://github.com/cyber-zeff/Vehicle-Website-Vehiclez-)
 [![Blog](https://img.shields.io/badge/Blog-050505?style=for-the-badge)](https://hux-blog-website.vercel.app/)
-[![Ecommerce](https://img.shields.io/badge/Ecommerce-110C29?style=for-the-badge)](https://hux-ecommerce-website.vercel.app/)
+[![Ecommerce](https://img.shields.io/badge/Ecommerce-AA7DFC?style=for-the-badge)](https://hux-ecommerce-website.vercel.app/)
 [![Frontend](https://img.shields.io/badge/Frontend-050505?style=for-the-badge)](https://hackathon-car-rent.vercel.app/)
 
 </div>
@@ -79,49 +80,49 @@ DevOps & Cloud ☁️
 <!--        TECH STACK       -->
 <!-- ======================= -->
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 
-<p align="center">
+<p>
 
 ### 🧠 Programming Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-110C29?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-AA7DFC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-110C29?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-AA7DFC?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-110C29?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-AA7DFC?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-050505?style=for-the-badge&logo=php&logoColor=white)
 
 ### ⚛️ Frameworks & Libraries
 
-![Next.js](https://img.shields.io/badge/Next.js-110C29?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-AA7DFC?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-110C29?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-AA7DFC?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-110C29?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-AA7DFC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-050505?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Databases & Backend Services
 
-![MySQL](https://img.shields.io/badge/MySQL-110C29?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-AA7DFC?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-050505?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-110C29?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Supabase](https://img.shields.io/badge/Supabase-AA7DFC?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ### ☁️ Hosting & Cloud Platforms
 
 ![Vercel](https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-110C29?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-AA7DFC?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 ### ⚙️ DevOps & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-110C29?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Docker](https://img.shields.io/badge/Docker-AA7DFC?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-050505?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🧠 Software Architecture & Engineering (currently exploring)
 
-![System Architecture Design](https://img.shields.io/badge/System_Architecture_Design-110C29?style=for-the-badge)
+![System Architecture Design](https://img.shields.io/badge/System_Architecture_Design-AA7DFC?style=for-the-badge)
 ![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-050505?style=for-the-badge)
-![API Design](https://img.shields.io/badge/API_Design-110C29?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API_Design-AA7DFC?style=for-the-badge)
 
 </p>
 
@@ -140,8 +141,6 @@ DevOps & Cloud ☁️
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-zeff&theme=dark&hide_border=false&layout=compact)
 
 </div>
-
-<br><br>
 
 <!-- ======================= -->
 <!--      SNAKE (AS IS)      -->
