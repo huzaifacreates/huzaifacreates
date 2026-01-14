@@ -1,23 +1,152 @@
-# Heyyy!
-I am Huzaifa aka cyberzeff...<br>an expired web developer, a Cyber Security Student, Vibe Coder and an AI Developer... currently pursuing a <br>Bachelor's degree in Cyber Security (grad class of 2028) from FAST Karachi.<br>
+<!-- ======================= -->
+<!--        INTRO            -->
+<!-- ======================= -->
 
+<div align="center" style="background:#110C29; padding:30px; border-radius:20px;">
 
-## Stalk me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cyber-zeff) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cyberzeff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyberzeff.me@gmail.com)
+<h1 style="color:#ffffff;">Heyyy! 👋 I'm Huzaifa</h1>
+<h3 style="color:#bdbdbd;">
+aka <span style="color:#7c7cff;">cyberzeff</span>
+</h3>
+
+<p style="color:#d1d1d1; max-width:720px;">
+💻 Coding for 3+ years
+<!-- <br>Always building, always learning 🚀 -->
+<br>🎯 Focused on building my <b>own startup</b><br>
+🎧 Professional <b>Vibe Coder</b>
+
+<br>
+
+🛠️ <b>What I work with:</b><br>
+Web Dev (Web 2.0 → Web 3.0) 🌐<br>
+Cyber Security (by degree, by obsession) 🛡️<br>
+GenAI & AI-powered apps 🤖<br>
+DevOps & Cloud ☁️
+
+<br>
+🎓 <b>Bachelor's in Cyber Security</b><br>
+📍 FAST NUCES Karachi — <b>Class of 2028</b>
+
+</p>
+
+<br>
+
+<!-- ======================= -->
+<!--      SOCIAL LINKS       -->
+<!-- ======================= -->
+
+<p align="center">
+  <a href="https://linkedin.com/in/cyber-zeff">
+    <img src="https://img.shields.io/badge/LinkedIn-110C29?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/cyberzeff">
+    <img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <a href="mailto:cyberzeff.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-110C29?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<h4 style="color:#9fa8ff; font-style: italic;">
+“Yes, I can actually do this all day!”
+</h4>
+
+</div>
+
 <br><br>
-## Here are Some Projects that are Worth Showcasing 😉
-[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-%2390EE90.svg?style=for-the-badge)](https://cyberzeff.vercel.app/) [![AURA AI](https://img.shields.io/badge/AURA%20AI%20Chatbot-%236A5ACD.svg?style=for-the-badge)](https://github.com/cyber-zeff/AURA-AI-Chatbot) [![Highway Dash](https://img.shields.io/badge/Highway%20Dash%20Game-%23F44336.svg?style=for-the-badge)](https://github.com/cyber-zeff/Highway-Dash-Game) [![FastHub](https://img.shields.io/badge/FastHub%20Std%20Portal-%23FF5722.svg?style=for-the-badge)](https://github.com/cyber-zeff/FASTHUB) [![Vehiclez](https://img.shields.io/badge/Vehicles%20Website-%2300BFFF.svg?style=for-the-badge)](https://github.com/cyber-zeff/Vehicle-Website-Vehiclez-) [![Blog Website](https://img.shields.io/badge/Blog%20Website-%23FF5733.svg?style=for-the-badge)](https://hux-blog-website.vercel.app/) [![Ecommerce Website](https://img.shields.io/badge/Ecommerce%20Website-%23FF8C00.svg?style=for-the-badge)](https://hux-ecommerce-website.vercel.app/) [![Frontend](https://img.shields.io/badge/Simple%20Frontend%20Website-%23FFD700.svg?style=for-the-badge)](https://hackathon-car-rent.vercel.app/) 
+
+<!-- ======================= -->
+<!--       PROJECTS          -->
+<!-- ======================= -->
+
+<h2 align="center">Projects Worth Showcasing</h2>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-110C29?style=for-the-badge)](https://cyberzeff.vercel.app/)
+[![AURA AI](https://img.shields.io/badge/AURA%20AI-050505?style=for-the-badge)](https://github.com/cyber-zeff/AURA-AI-Chatbot)
+[![Highway Dash](https://img.shields.io/badge/Highway%20Dash-110C29?style=for-the-badge)](https://github.com/cyber-zeff/Highway-Dash-Game)
+[![FastHub](https://img.shields.io/badge/FastHub-050505?style=for-the-badge)](https://github.com/cyber-zeff/FASTHUB)
+
+[![Vehiclez](https://img.shields.io/badge/Vehiclez-110C29?style=for-the-badge)](https://github.com/cyber-zeff/Vehicle-Website-Vehiclez-)
+[![Blog](https://img.shields.io/badge/Blog-050505?style=for-the-badge)](https://hux-blog-website.vercel.app/)
+[![Ecommerce](https://img.shields.io/badge/Ecommerce-110C29?style=for-the-badge)](https://hux-ecommerce-website.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-050505?style=for-the-badge)](https://hackathon-car-rent.vercel.app/)
+
+</div>
+
 <br><br>
-# 💻 My Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
+<!-- ======================= -->
+<!--        TECH STACK       -->
+<!-- ======================= -->
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+
+### 🧠 Programming Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-110C29?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-110C29?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-110C29?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-050505?style=for-the-badge&logo=php&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+
+![Next.js](https://img.shields.io/badge/Next.js-110C29?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-110C29?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-110C29?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-050505?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases & Backend Services
+
+![MySQL](https://img.shields.io/badge/MySQL-110C29?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-050505?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-110C29?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+### ☁️ Hosting & Cloud Platforms
+
+![Vercel](https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-110C29?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+### ⚙️ DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-110C29?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-050505?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🧠 Software Architecture & Engineering (currently exploring)
+
+![System Architecture Design](https://img.shields.io/badge/System_Architecture_Design-110C29?style=for-the-badge)
+![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-050505?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API_Design-110C29?style=for-the-badge)
+
+</p>
+
 <br><br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cyber-zeff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<!-- ======================= -->
+<!--      GITHUB STATS       -->
+<!-- ======================= -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=cyber-zeff&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=cyber-zeff&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-zeff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-zeff&theme=dark&hide_border=false&layout=compact)
 
+</div>
 
+<br><br>
 
+<!-- ======================= -->
+<!--      SNAKE (AS IS)      -->
+<!-- ======================= -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
