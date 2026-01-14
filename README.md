@@ -36,13 +36,13 @@ DevOps & Cloud ☁️
 
 <p align="center">
   <a href="https://linkedin.com/in/cyber-zeff">
-    <img src="https://img.shields.io/badge/LinkedIn-7746d4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7746d4?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:middle;"/>
   </a>
   <a href="https://x.com/cyberzeff">
-    <img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=X&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=X&logoColor=white" style="vertical-align:middle;"/>
   </a>
   <a href="mailto:cyberzeff.me@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7746d4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-7746d4?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:middle;"/>
   </a>
 </p>
 <h4 style="color:#AA7DFC; font-style: italic;"> “Yes, I can actually do this all day!” </h4>
@@ -136,7 +136,6 @@ DevOps & Cloud ☁️
 ![](https://github-readme-stats.vercel.app/api?username=cyber-zeff&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=cyber-zeff&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-zeff&theme=dark&hide_border=false&layout=compact)
-
 </div>
 
 <!-- ======================= -->
