@@ -4,29 +4,28 @@
 
 <div align="center" style="background:#110C29; padding:30px; border-radius:20px;">
 
-<h1 style="color:#ffffff;">Heyyy! 👋 I'm Huzaifa</h1>
-<h3 style="color:#bdbdbd;">
+<h1 align="center">Heyyy! 👋 I'm Huzaifa</h1>
+<h3 align="center">
 aka <span style="color:#7c7cff;">cyberzeff</span>
 </h3>
 
-<p style="color:#d1d1d1; max-width:720px;">
-💻 Coding for 3+ years
-<!-- <br>Always building, always learning 🚀 -->
-<br>🎯 Focused on building my <b>own startup</b><br>
+<p align="center">
+💻 Coding for 3+ years  
+🎯 Focused on building my <b>own startup</b>  
 🎧 Professional <b>Vibe Coder</b>
+</p>
 
-<br>
-
+<p align="center">
 🛠️ <b>What I work with:</b><br>
 Web Dev (Web 2.0 → Web 3.0) 🌐<br>
-Cyber Security (by degree, by obsession) 🛡️<br>
+Cyber Security 🛡️<br>
 GenAI & AI-powered apps 🤖<br>
 DevOps & Cloud ☁️
+</p>
 
-<br>
+<p align="center">
 🎓 <b>Bachelor's in Cyber Security</b><br>
 📍 FAST NUCES Karachi — <b>Class of 2028</b>
-
 </p>
 
 <br>
