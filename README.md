@@ -10,8 +10,8 @@ aka <span style="color:#7746d4;">cyberzeff</span>
 </h3>
 
 <p align="center">
-💻 Coding for 3+ years  
-🎯 Focused on building my <b>own startup</b>  
+💻 Coding for 3+ years<br>
+🎯 Focused on building my <b>own startup</b><br>
 🎧 Professional <b>Vibe Coder</b>
 </p>
 
@@ -45,7 +45,7 @@ DevOps & Cloud ☁️
     <img src="https://img.shields.io/badge/Email-7746d4?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:middle;"/>
   </a>
 </p>
-<h4 style="color:#AA7DFC; font-style: italic;"> “Yes, I can actually do this all day!” </h4>
+<h4 style="color:#AA7DFC; font-style: italic;"> *“Yes, I can actually do this all day!”* </h4>
 
 </div>
 
