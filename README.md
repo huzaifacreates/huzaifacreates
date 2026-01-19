@@ -137,7 +137,6 @@ _“Yes, I can actually do this all day!”_ </h4>
 
 ![](https://github-readme-stats.vercel.app/api?username=cyber-zeff&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=cyber-zeff&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-zeff&theme=dark&hide_border=false&layout=compact)
 </div>
 
 <!-- ======================= -->
