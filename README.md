@@ -116,7 +116,7 @@ _“Yes, I can actually do this all day!”_ </h4>
 ### ⚙️ DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-7746d4?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-050505?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes (K8s)](https://img.shields.io/badge/Kubernetes-050505?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🧠 Software Architecture & Engineering (currently exploring)
 
