@@ -59,11 +59,11 @@ my long-term goal?
 
 <div align="center">
 
-<img src="https://github-profile-maker.vercel.app/api/streak?username=cyber-zeff&theme=tokyonight&hide_border=false&border_radius=10"/>
+<img src="https://github-profile-maker.vercel.app/api/streak?username=huzaifacreates&theme=tokyonight&hide_border=false&border_radius=10"/>
 
 <br><br>
 
-<img src="https://github-profile-maker.vercel.app/api/stats?username=cyber-zeff&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10"/>
+<img src="https://github-profile-maker.vercel.app/api/stats?username=huzaifacreates&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10"/>
 
 </div>
 
@@ -85,7 +85,7 @@ my long-term goal?
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=cyber-zeff&color=blue&style=flat&label=Profile%20Views"/>
+<img src="https://komarev.com/ghpvc/?username=huzaifacreates&color=blue&style=flat&label=Profile%20Views"/>
 
 </div>
 
