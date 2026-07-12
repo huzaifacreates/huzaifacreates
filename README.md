@@ -35,9 +35,9 @@ my long-term goal?
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+Enjoyer;Future+DevOps+Engineer;Building+Cool+Stuff;Trying+to+make+my+startup+work+%F0%9F%98%AD" />
