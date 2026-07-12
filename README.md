@@ -33,6 +33,7 @@ my long-term goal?
 
 > build products that people genuinely love and turn one of them into the startup i've always dreamed of.
 
+</br>
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" />
