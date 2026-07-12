@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 👀 since you're already stalking...
+### 👀 since you're already here...
 
 </div>
 
