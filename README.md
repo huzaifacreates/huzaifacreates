@@ -1,150 +1,90 @@
-<!-- ======================= -->
-<!--        INTRO            -->
-<!-- ======================= -->
-
-<div align="center" style="background:#110C29; padding:30px; border-radius:20px;">
-
-<h1 align="center">Heyyy! 👋 I'm Huzaifa</h1>
-<h3 align="center">
-aka <span style="color:#7746d4;">cyberzeff</span>
-</h3>
-
-<p align="center">
-💻 Coding for 3+ years<br>
-🎯 Focused on building my <b>own startup</b><br>
-🎧 Professional <b>Vibe Coder</b>
-</p>
-
-<p align="center">
-🛠️ <b>What I work with:</b><br>
-Web Dev (Web 2.0 → Web 3.0) 🌐<br>
-Cyber Security 🛡️<br>
-GenAI & AI-powered apps 🤖<br>
-DevOps & Cloud ☁️
-</p>
-
-<p align="center">
-🎓 <b>Bachelor's in Cyber Security</b><br>
-📍 FAST NUCES Karachi — <b>Class of 2028</b>
-</p>
-
-<br>
-
-<!-- ======================= -->
-<!--      SOCIAL LINKS       -->
-<!-- ======================= -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/cyber-zeff">
-    <img src="https://img.shields.io/badge/LinkedIn-7746d4?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://x.com/cyberzeff">
-    <img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=X&logoColor=white" style="vertical-align:middle;"/>
-  </a>
-  <a href="mailto:cyberzeff.me@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7746d4?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:middle;"/>
-  </a>
-</p>
-<h4>
-  
-_“Yes, I can actually do this all day!”_ </h4>
-
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=0f2d2b&colorEnd=f1f1f1&height=120&section=header&text=heyy+yoo+stalker+%3B%29&fontSize=34&fontColor=ffffff&animation=none&gradientDirection=diagonal&parallax=true&wavePosition=73&waveAmplitude=48&waveSpeed=44&flipWave=false&textAlignX=50&textAlignY=50&rtl=24&rtr=24&rbr=0&rbl=0"/>
 </div>
-
-<br><br>
-
-<!-- ======================= -->
-<!--       PROJECTS          -->
-<!-- ======================= -->
-
-<h2>Projects Worth Showcasing</h2>
-
-<div>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7746d4?style=for-the-badge)](https://cyberzeff.vercel.app/)
-[![AURA AI](https://img.shields.io/badge/AURA%20AI-050505?style=for-the-badge)](https://github.com/cyber-zeff/AURA-AI-Chatbot)
-[![Highway Dash](https://img.shields.io/badge/Highway%20Dash-7746d4?style=for-the-badge)](https://github.com/cyber-zeff/Highway-Dash-Game)
-[![FastHub](https://img.shields.io/badge/FastHub-050505?style=for-the-badge)](https://github.com/cyber-zeff/FASTHUB)
-
-[![Vehiclez](https://img.shields.io/badge/Vehiclez-7746d4?style=for-the-badge)](https://github.com/cyber-zeff/Vehicle-Website-Vehiclez-)
-[![Blog](https://img.shields.io/badge/Blog-050505?style=for-the-badge)](https://hux-blog-website.vercel.app/)
-[![Ecommerce](https://img.shields.io/badge/Ecommerce-7746d4?style=for-the-badge)](https://hux-ecommerce-website.vercel.app/)
-[![Frontend](https://img.shields.io/badge/Frontend-050505?style=for-the-badge)](https://hackathon-car-rent.vercel.app/)
-
-</div>
-
-<br><br>
-
-<!-- ======================= -->
-<!--        TECH STACK       -->
-<!-- ======================= -->
-
-<h2>💻 Tech Stack</h2>
-
-<p>
-
-### 🧠 Programming Languages
-
-![Go](https://img.shields.io/badge/Go-050505?style=for-the-badge&logo=go&logoColor=00ADD8)
-![TypeScript](https://img.shields.io/badge/TypeScript-7746d4?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-7746d4?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7746d4?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-050505?style=for-the-badge&logo=php&logoColor=white)
-
-### ⚛️ Frameworks & Libraries
-
-![Next.js](https://img.shields.io/badge/Next.js-7746d4?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-7746d4?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7746d4?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-050505?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases & Backend Services
-
-![MySQL](https://img.shields.io/badge/MySQL-7746d4?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-050505?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-7746d4?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-
-### ☁️ Hosting & Cloud Platforms
-
-![Vercel](https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-7746d4?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-
-### ⚙️ DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-7746d4?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes(K8s)](https://img.shields.io/badge/Kubernetes-050505?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🧠 Software Architecture & Engineering (currently exploring)
-
-![System Architecture Design](https://img.shields.io/badge/System_Architecture_Design-7746d4?style=for-the-badge)
-![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-050505?style=for-the-badge)
-![API Design](https://img.shields.io/badge/API_Design-7746d4?style=for-the-badge)
-
-</p>
-
-<br><br>
-
-<!-- ======================= -->
-<!--      GITHUB STATS       -->
-<!-- ======================= -->
-
-<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-![](https://streak-stats.demolab.com?user=cyber-zeff&theme=dark&hide_border=false)
+### 👀 since you're already stalking...
+
 </div>
 
-<!-- ======================= -->
-<!--      SNAKE (AS IS)      -->
-<!-- ======================= -->
+# heyyy 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+this is **Huzaifa**.
+
+i've been building stuff since **June 2022**, and somehow that *"lemme learn HTML real quick"* phase turned into a **3+ year obsession**.
+
+currently i'm a **full-stack developer**, slowly diving deeper into the backend rabbit hole and making my way towards becoming a **DevOps engineer**.
+
+alongside all of this, i'm pursuing my **Bachelor's in Cyber Security** *(Class of 2028)* because apparently sleeping wasn't part of the curriculum.
+
+outside university, you'll probably find me...
+
+- 🚀 building side projects
+- 🤖 experimenting with AI
+- 🛠️ breaking things just to understand how they work
+- 💡 chasing startup ideas that randomly appear at **2 AM**
+
+i'm a huge believer in **learning by building**.
+
+i'd rather ship an imperfect project than spend weeks trying to build the "perfect" one.
+
+my long-term goal?
+
+> build products that people genuinely love and turn one of them into the startup i've always dreamed of.
+
+---
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+Enjoyer;Future+DevOps+Engineer;Building+Cool+Stuff;Trying+to+make+my+startup+work+%F0%9F%98%AD" />
+</div>
+
+---
+
+## ⚒️ stuff i enjoy working with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,fastapi,python,tailwind,supabase,mongodb,postgres,docker,git,github,linux,vscode&perline=8&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 github chaos
+
+<div align="center">
+
+<img src="https://github-profile-maker.vercel.app/api/streak?username=cyber-zeff&theme=tokyonight&hide_border=false&border_radius=10"/>
+
+<br><br>
+
+<img src="https://github-profile-maker.vercel.app/api/stats?username=cyber-zeff&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-maker.vercel.app/api/quotes?theme=tokyonight&quote=yess....+i+can+actually+do+this+all+day&author=myself+%28who+did+u+thought%3F%29&textAlign=center&authorAlign=center"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### thanks for stalking responsibly ❤️
+
+*"if something here looks cool, leave a ⭐ or follow.. it'll make my day :)"*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=cyber-zeff&color=blue&style=flat&label=Profile%20Views"/>
+
+</div>
