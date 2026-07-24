@@ -59,7 +59,7 @@ my long-term goal?
 
 <div align="center">
 
-<img src="https://github-profile-maker.vercel.app/api/streak?username=huzaifacreates&theme=tokyonight&hide_border=false&border_radius=10"/>
+<img src="https://streak-stats.demolab.com/?user=huzaifacreates&theme=tokyonight&hide_border=false&border_radius=10&order=3&timezone=Asia%2FKarachi"/>
 
 <br><br>
 
