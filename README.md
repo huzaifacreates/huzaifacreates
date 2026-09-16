@@ -1,4 +1,4 @@
-<p align="left">
+<!-- <p align="left">
   <img
     src="./github-header.jpg"
     width="50"
@@ -14,7 +14,7 @@
       align="middle"
     />
   </a>
-</p>
+</p> -->
 
 <div align="left">
 
